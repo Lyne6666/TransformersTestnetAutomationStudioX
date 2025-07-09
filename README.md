@@ -1,2 +1,1 @@
-# TransformersTestnetAutomationStudioX
-Advanced TransformersTestnetAutomationStudioX project
+.
